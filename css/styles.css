@@ -1,5 +1,4 @@
 body {background-color:bisque}
-H1 class="My Portfolio" 
-{font-style: oblique;
+.H1 {font-style: oblique;
 border-style: dotted;
 border-width: 8px;}
